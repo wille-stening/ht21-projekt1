@@ -1,2 +1,2 @@
 # Projekt Mall
-Utveckling av projekt...
+Läs uppgiftsbeskrivningen
