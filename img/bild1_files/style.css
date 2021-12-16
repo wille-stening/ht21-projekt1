@@ -1,0 +1,15 @@
+body{background-color:burlywood;}
+header {display: flex;
+justify-content: center;
+font-size: 55px;
+}
+#box1{border: solid black 2px;
+height: 55px;
+}
+#box2{background-color:slategray;
+margin: 15px 450px 20px 5px;
+height: 400px;
+font-size: 50px;
+justify-content:center;
+display: flex;
+}
